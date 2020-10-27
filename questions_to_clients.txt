@@ -1,0 +1,74 @@
+[
+    {
+        "question": "Город",
+        "answer options": ""
+    },
+    {
+        "question": "Компания",
+        "answer options": ""
+    },
+    {
+        "question": "Должность",
+        "answer options": ""
+    },
+    {
+        "question": "Чем занимается компания?",
+        "answer options": ""
+    },
+    {
+        "question": "Пользуется ли Ваша компания услугами ЦОД?",
+        "answer options":
+        [
+            {
+                "value": "Да, мы используем услуги ЦОД",
+                "next_question": 5
+            },
+            {
+                "value": "Нет, мы не работаем с ЦОД",
+                "next_question": 10
+            }
+        ]
+    },
+    {
+        "question": "Какими услугами ЦОД пользуется Ваша компания?",
+        "answer options": ""
+    },
+    {
+        "question": "Для каких задач Вы используете серверы?",
+        "answer options": ""
+    },
+    {
+        "question": "Какими дополнительными услугами ЦОД Вы пользуетесь?",
+        "answer options": ""
+    },
+    {
+        "question": "Какие дополнительные услуги необходимы, но ЦОД их не предоставляет?",
+        "answer options": ""
+    },
+    {
+        "question": "Какие обстоятельства могут повлиять на решение о смене ЦОД?",
+        "answer options": ""
+    },
+    {
+        "question": "Знаете ли Вы о дата центре Миран?",
+        "answer options":
+        [
+            {
+                "value": "Да",
+                "next_question": 11
+            },
+            {
+                "value": "Нет",
+                "next_question": 12
+            }
+        ]
+    },
+    {
+        "question": "Откуда в первый раз о нас услышали?",
+        "answer options": ""
+    },
+    {
+        "question": "Перечислите Ваш личный ТОП дата центров",
+        "answer options": ""
+    }
+]
